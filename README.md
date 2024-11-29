@@ -1,16 +1,52 @@
-## Hi there 👋
+# Michael Frank
 
-<!--
-**Vejitaxp/Vejitaxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a seasoned IT-entusiast with over 20 years of experience on both the costumer aswell as the consultant side.
+I´m into the endpoint side of thinks as you mite have guessed from the URL. :wink:
 
-Here are some ideas to get you started:
+I work as a Solutions Engineer for an International consultancy firm. If you need help or any quotes, let us know. :grin:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Devoteam M Cloud](https://mcloud.devoteam.com)
+
+![Devoteam](https://www.devoteam.com/wp-content/themes/lsac-devoteam/assets/images/logo-devoteam.svg)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+---
+<p>&nbsp;</p>
+
+
+![microsoft-certified-associate-badge](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg)
+
+[Microsoft 365 Certified: Endpoint Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/MichaelFrank-1121/D89FAF69A2EBB02C?sharingId=4270B5EA980F422C)
+
+<p>&nbsp;</p>
+![Microsoft Azure Fundamentals](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg)
+
+[Microsoft Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MichaelFrank-1121/4F7946D1557207F3?sharingId=4270B5EA980F422C)
+
+<p>&nbsp;</p>
+![Microsoft Security, Compliance and Identity Fundamentals](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg)
+
+[Microsoft Security, Compliance and Identity Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MichaelFrank-1121/4282690D7E36E61D?sharingId=4270B5EA980F422C)
+
+<p>&nbsp;</p>
+![Microsoft 365 Fundamentals](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg)
+
+[Microsoft 365 Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MichaelFrank-1121/6C6961A1F44126F1?sharingId=4270B5EA980F422C)
+
+<p>&nbsp;</p>
+![Administer Active Directory Domain Services](https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main)
+
+[Administer Active Directory Domain Services](https://learn.microsoft.com/api/credentials/share/en-us/MichaelFrank-1121/E0A457BAF2568FD5?sharingId=4270B5EA980F422C)
+
+<p>&nbsp;</p>
+![Microsoft Certified: Azure Virtual Desktop Specialty](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-specialty-badge.svg)
+
+[Microsoft Certified: Azure Virtual Desktop Specialty](https://learn.microsoft.com/api/credentials/share/en-us/MichaelFrank-1121/2987140FB3EBDA20?sharingId=4270B5EA980F422C)
+
+<p>&nbsp;</p>
+![Nerdio NME-200 Certified Engineer](https://getnerdio.com/wp-content/uploads/2023/10/nme-200.jpg)
+Nerdio NME-200 Certified Engineer
+
+<p>&nbsp;</p>
