@@ -21,32 +21,38 @@ I work as a Solutions Engineer for an International consultancy firm. If you nee
 [Microsoft 365 Certified: Endpoint Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/MichaelFrank-1121/D89FAF69A2EBB02C?sharingId=4270B5EA980F422C)
 
 <p>&nbsp;</p>
+
 ![Microsoft Azure Fundamentals](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg)
 
 [Microsoft Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MichaelFrank-1121/4F7946D1557207F3?sharingId=4270B5EA980F422C)
 
 <p>&nbsp;</p>
+
 ![Microsoft Security, Compliance and Identity Fundamentals](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg)
 
 [Microsoft Security, Compliance and Identity Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MichaelFrank-1121/4282690D7E36E61D?sharingId=4270B5EA980F422C)
 
 <p>&nbsp;</p>
+
 ![Microsoft 365 Fundamentals](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg)
 
 [Microsoft 365 Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MichaelFrank-1121/6C6961A1F44126F1?sharingId=4270B5EA980F422C)
 
 <p>&nbsp;</p>
+
 ![Administer Active Directory Domain Services](https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main)
 
 [Administer Active Directory Domain Services](https://learn.microsoft.com/api/credentials/share/en-us/MichaelFrank-1121/E0A457BAF2568FD5?sharingId=4270B5EA980F422C)
 
 <p>&nbsp;</p>
+
 ![Microsoft Certified: Azure Virtual Desktop Specialty](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-specialty-badge.svg)
 
 [Microsoft Certified: Azure Virtual Desktop Specialty](https://learn.microsoft.com/api/credentials/share/en-us/MichaelFrank-1121/2987140FB3EBDA20?sharingId=4270B5EA980F422C)
 
 <p>&nbsp;</p>
-![Nerdio NME-200 Certified Engineer](https://getnerdio.com/wp-content/uploads/2023/10/nme-200.jpg)
+
+<img src="https://getnerdio.com/wp-content/uploads/2023/10/nme-200.jpg" style="float: left; margin-right: 1em" alt="drawing" width="180"/>
 Nerdio NME-200 Certified Engineer
 
 <p>&nbsp;</p>
