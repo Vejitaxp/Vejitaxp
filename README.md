@@ -5,7 +5,7 @@ I´m into the endpoint side of thinks as you mite have guessed from the URL. :wi
 
 I work as a Solutions Engineer for an International consultancy firm. If you need help or any quotes, let us know. :grin:
 
-[Devoteam M Cloud](https://mcloud.devoteam.com) <img src="https://www.devoteam.com/wp-content/themes/lsac-devoteam/assets/images/logo-devoteam.svg" style="float: left; margin-right: 1em" alt="drawing" width="200"/>
+<img src="https://www.devoteam.com/wp-content/themes/lsac-devoteam/assets/images/logo-devoteam.svg" style="float: left; margin-right: 1em" alt="drawing" width="200"/> [Devoteam M Cloud](https://mcloud.devoteam.com)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
