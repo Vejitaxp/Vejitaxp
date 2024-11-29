@@ -7,15 +7,14 @@ I´m into the endpoint side of thinks as you mite have guessed from the URL. :wi
 
 [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/michaelfrank-1121/credentials)
 
-<p>&nbsp;</p>
 <p float="left">
-<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="50"/>
-<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="50"/>
-  <img src="https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main" width="50"/>
-  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-specialty-badge.svg" width="50"/>
+<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="100"/>
+<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="100"/>
+  <img src="https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main" width="100"/>
+  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-specialty-badge.svg" width="100"/>
 </p>
 
-<img src="https://getnerdio.com/wp-content/uploads/2023/10/nme-200.jpg" width="180"/>
+<img src="https://getnerdio.com/wp-content/uploads/2023/10/nme-200.jpg" width="200"/>
 
 ---
 
