@@ -17,8 +17,4 @@ I work as a Solutions Engineer for an International consultancy firm. If you nee
 
 ---
 <p>&nbsp;</p>
-<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" style="float: left; margin-right: 1em" alt="drawing" width="50"/>
-<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" style="float: left; margin-right: 1em" alt="drawing" width="50"/>
-<img src="https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main" style="float: left; margin-right: 1em" alt="drawing" width="50"/>
-<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-specialty-badge.svg" style="float: left; margin-right: 1em" alt="drawing" width="50"/>
-<img src="https://getnerdio.com/wp-content/uploads/2023/10/nme-200.jpg" style="float: left; margin-right: 1em" alt="drawing" width="180"/>
+<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" style="float: left; margin-right: 1em" alt="drawing" width="50"/> <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" style="float: left; margin-right: 1em" alt="drawing" width="50"/> <img src="https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main" style="float: left; margin-right: 1em" alt="drawing" width="50"/> <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-specialty-badge.svg" style="float: left; margin-right: 1em" alt="drawing" width="50"/> <img src="https://getnerdio.com/wp-content/uploads/2023/10/nme-200.jpg" style="float: left; margin-right: 1em" alt="drawing" width="180"/>
