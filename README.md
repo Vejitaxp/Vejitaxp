@@ -21,4 +21,4 @@ I´m into the endpoint side of thinks as you mite have guessed from the URL. :wi
 I work as a Solutions Engineer for an International consultancy firm. If you need help or any quotes, let us know. :grin:
 
 [![Devoteam](https://www.devoteam.com/wp-content/themes/lsac-devoteam/assets/images/logo-devoteam.svg 'Devoteam')](https://mcloud.devoteam.com)
-[<img src="https://www.devoteam.com/wp-content/themes/lsac-devoteam/assets/images/logo-devoteam.svg">](https://mcloud.devoteam.com)
+[<img src="https://www.devoteam.com/wp-content/themes/lsac-devoteam/assets/images/logo-devoteam.svg" width="200">](https://mcloud.devoteam.com)
