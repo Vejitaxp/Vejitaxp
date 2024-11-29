@@ -7,20 +7,18 @@ I´m into the endpoint side of thinks as you mite have guessed from the URL. :wi
 
 [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/michaelfrank-1121/credentials)
 
-I work as a Solutions Engineer for an International consultancy firm. If you need help or any quotes, let us know. :grin:
-
-[![Devoteam](https://www.devoteam.com/wp-content/themes/lsac-devoteam/assets/images/logo-devoteam.svg 'Devoteam')](https://mcloud.devoteam.com)
-
-<p>&nbsp;</p>
-
-
-
----
 <p>&nbsp;</p>
 <p float="left">
 <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="50"/>
 <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="50"/>
   <img src="https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main" width="50"/>
   <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-specialty-badge.svg" width="50"/>
-  <img src="https://getnerdio.com/wp-content/uploads/2023/10/nme-200.jpg" width="50"/>
 </p>
+
+<img src="https://getnerdio.com/wp-content/uploads/2023/10/nme-200.jpg" width="180"/>
+
+---
+
+I work as a Solutions Engineer for an International consultancy firm. If you need help or any quotes, let us know. :grin:
+
+[![Devoteam](https://www.devoteam.com/wp-content/themes/lsac-devoteam/assets/images/logo-devoteam.svg 'Devoteam')](https://mcloud.devoteam.com)
