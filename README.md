@@ -21,4 +21,4 @@ I am a seasoned IT-entusiast with over 20 years of experience and I´m really pa
 
 I work as a Solutions Engineer for an International consultancy firm activ in EMEA. If you need help or any quotes, let us know. :grin:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Dev_logo_rgb.png" width="200">(https://mcloud.devoteam.com)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Dev_logo_rgb.png" width="200">](https://mcloud.devoteam.com)
