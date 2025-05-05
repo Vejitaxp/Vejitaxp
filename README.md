@@ -13,7 +13,7 @@ I am a seasoned IT-entusiast with over 20 years of experience and I´m really pa
   <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-specialty-badge.svg" width="100"/>
 </p>
 
-<img src="https://nerdioinc.mcoutput.com/getnerdio/Skins/Default/Stylesheets/Images/transparent.gif" width="200"/>
+<img src="https://images.app.goo.gl/M3mKq4KHZU2b2oMG9" width="200"/>
 
 ---
 
