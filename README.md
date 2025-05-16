@@ -11,6 +11,7 @@ I am a seasoned IT-entusiast with over 20 years of experience and I´m really pa
 <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="100"/>
   <img src="https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main" width="100"/>
   <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-specialty-badge.svg" width="100"/>
+  <img src="https://images.credly.com/size/680x680/images/96cd27f3-f113-4a4a-aa8c-5ca38bdb3edb/blob" width="100"/>
 </p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_medium_full_color.png" width="200"/>
